@@ -1,6 +1,6 @@
 ﻿namespace CodeforcesAssiutSheets.NewCommers
 {
-    //https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L
+    //https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M
     class M_CapitalOrSmallOrDigit
     {
         public M_CapitalOrSmallOrDigit()
